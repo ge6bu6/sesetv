@@ -1,8 +1,6 @@
 Online Vod:
 PG: 
 https://www.252035.xyz/p/jsm.json?pwd=18x
-Wallpaper: 
-https://www.252035.xyz/imgs
 Tingshu:
 https://xn--fjq53n.xyz/Ting/Tshu.json
 Fun:
@@ -27,5 +25,9 @@ Live:
 https://bc.188766.xyz/?url=https://live.188766.xyz&mishitong=true&mima=mianfeibuhuaqian&json=true
 https://l.gmbbk.com/upload/0387387.txt
 https://dao.mhql.qzz.io/py.json
+
+Wallpaper: 
+https://www.252035.xyz/imgs
+
 
 
