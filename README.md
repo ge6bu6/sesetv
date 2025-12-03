@@ -29,7 +29,11 @@ https://gh-proxy.org/https:/github.com/CatVodSpider-GM/NSFW-Spiders/blob/main/in
 
 https://9763.kstore.space/wnqiwnquidwiunddneudne/config.json
 
+https://gh-proxy.com/raw.githubusercontent.com/yuanwangokk-1/TV-BOX/refs/heads/main/Aries/jsm.json
 
+https://ghfast.top/https://raw.githubusercontent.com/KAN314go/yu/main/tvbox/纯福利/纯福利.json
+
+https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/main/T4.json
 
 Live:
 https://bc.188766.xyz/?url=https://live.188766.xyz&mishitong=true&mima=mianfeibuhuaqian&json=true
