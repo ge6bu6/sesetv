@@ -3,9 +3,6 @@ Online Vod:
 PG: 
 https://www.252035.xyz/p/jsm.json?pwd=18x
 
-Tingshu:
-https://xn--fjq53n.xyz/Ting/Tshu.json
-
 Fun:
 https://clun.top/fun.json
 
