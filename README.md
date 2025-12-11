@@ -32,6 +32,8 @@ https://ghfast.top/https://raw.githubusercontent.com/KAN314go/yu/main/tvbox/çº¯ç
 
 https://ghfast.top/https://raw.githubusercontent.com/ediart/tvbox/main/T4.json
 
+https://caicai.us.kg/cai/ss.json
+
 Live:
 https://bc.188766.xyz/?url=https://live.188766.xyz&mishitong=true&mima=mianfeibuhuaqian&json=true
 
